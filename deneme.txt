@@ -1,0 +1,13 @@
+
+tarife değişikliği ile ilgili çalışmada yapılması gerekenler;
+
+/telemetri/scripts/upgrade_software.sh scriptinde aşağıdaki satır comment(#) lenir.
+	#/telemetri/scripts/vld_trf.sh
+	
+Uygulama seviyesinde;
+	Tarife değişikliği ile ilgili her 10dk bir validatörden ilgili dosyaları kopyalacayak.
+
+sudo root@10.1.1.11:/belbim/cfg/toplamhatno.cfg /validator/payment/
+sudo root@10.1.1.11:/belbim/cfg/tarife.cfg /validator/payment/
+
+
