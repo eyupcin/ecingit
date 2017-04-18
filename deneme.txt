@@ -1,4 +1,4 @@
-
+ dev1
 tarife değişikliği ile ilgili çalışmada yapılması gerekenler;
 
 /telemetri/scripts/upgrade_software.sh scriptinde aşağıdaki satır comment(#) lenir.
